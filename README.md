@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @TalytaPantoja
 
-- 🌱 **Desenvolvedora em formação** | Amante da natureza, tecnologia e cultura
+- 🌱 **Desenvolvedora em formação**
 
 ---
 
