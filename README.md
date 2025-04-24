@@ -16,9 +16,8 @@
 ---
 
   🌟 Próximos Passos
-- Desenvolver meu primeiro projeto completo
-- Contribuir em exercícios open-source
-- Aprofundar em Java
+- Explorar Banco de Dados e SQL
+- Aprofundar em Java e Frameworks como Spring Boot/ Node.js
 
 # 📫 **Conecte-se**:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Talyta_Fonseca-0077B5?logo=linkedin)](https://www.linkedin.com/in/talyta-fonseca-25b5b7119/)
