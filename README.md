@@ -4,7 +4,7 @@ Sou desenvolvedora em formação 🌱<br>
 Atualmente cursando Análise e Desenvolvimento de Sistemas.  
 Tenho 28 anos, sou de Belém do Pará e estou em transição de carreira  
 Iniciei meus estudos pelo Front-End e tenho noções de SQL<br>
-Hoje, meu foco tem sido o desenvolvimento Back-End com ênfase em Java.
+Hoje, meu foco tem sido o desenvolvimento com ênfase em JavaScript.
 
 #### Linguagens e Tecnologias em estudo 🚀
 
@@ -15,9 +15,9 @@ Hoje, meu foco tem sido o desenvolvimento Back-End com ênfase em Java.
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
 
 #### Próximos passos: 
-- Otimização de performance nas linguagens Java, JavaScript e Python + frameworks
-- Desenvolver APIs com Spring Boot
-- Aprofundar em banco de dados relacional
+- Otimização de performance nas linguagens Java, JavaScript + frameworks
+- Desenvolver APIs
+- Aprofundar em banco de dados
 - Aprimorar a Integração e Entrega Contínua (CI/CD)
 
 ### 📫 **Conecte-se comigo**:
