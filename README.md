@@ -2,7 +2,7 @@
 
 Sou desenvolvedora em formação 🌱<br>
 Atualmente cursando Análise e Desenvolvimento de Sistemas.  
-Tenho 28 anos e sou de Belém do Pará 
+Tenho 28 anos e sou de Belém do Pará<br>
 Iniciei meus estudos pelo Front-End e tenho noções de SQL<br>
 Hoje, meu foco tem sido o desenvolvimento com ênfase em JavaScript.
 
