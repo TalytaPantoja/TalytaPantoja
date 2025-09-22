@@ -13,10 +13,9 @@ Meu foco atual é o desenvolvimento em **React**, com objetivo de evoluir para *
 
 #### Próximos Passos:
 
-- Desenvolver em **Node.js/Express** e construir **APIs RESTful**.  
+- Desenvolver **APIs RESTful**.  
 - Aprimorar habilidades em **SQL** e explorar **NoSQL**
 - Conectar React com APIs e gerenciar estados compartilhados.
-- **TypeScript Avançado**
 - Implementar boas práticas de segurança.
 - Versionamento e Deploy
 
